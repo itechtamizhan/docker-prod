@@ -24,3 +24,5 @@
          {
 	    "name":"test"
 	}
+	
+   "Root location ":"npm root -g"
