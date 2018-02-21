@@ -5,7 +5,7 @@ var uuid = require('uuid');
 var path = require('path');
 var logger = require('morgan'); 
 var url = 'mongodb://db:27017/'; 
-var port= 5000 ; 
+var port= 6000 ; 
 var cookieParser = require('cookie-parser'); 
 var bodyParser = require('body-parser');
 
